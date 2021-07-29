@@ -1,0 +1,14 @@
+{
+  "name": "hotel-db-app",
+  "version": "1.0.0",
+  "description": "A demo console database application program for mysql",
+  "main": " main.js",
+  "scripts": {
+    "test": "echo >> \"Hello World\" "
+  },
+  "author": "Eyasu G",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
