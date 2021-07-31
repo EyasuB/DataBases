@@ -1,0 +1,27 @@
+{
+  "name": "dreamhome-db-app",
+  "version": "1.0.0",
+  "description": "Assignment using dreamhome db in nodejs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EyasuB/cs415DBMS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "homedream",
+    "mysql"
+  ],
+  "author": "Eyasu G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EyasuB/cs415DBMS/issues"
+  },
+  "homepage": "https://github.com/EyasuB/cs415DBMS#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
