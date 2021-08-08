@@ -1,0 +1,19 @@
+{
+  "name": "myproducts-mongodb-mongoose-app",
+  "version": "1.0.0",
+  "description": "Application in Mongoose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "app",
+    "node.js",
+    "mogoose"
+  ],
+  "author": "Eyasu G",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.13.5"
+  }
+}
